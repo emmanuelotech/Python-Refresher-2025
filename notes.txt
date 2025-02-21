@@ -23,7 +23,5 @@ Design Patterns: Proven solutions to common design problems.
 - Help us understand object oriented principles.
 Book: Design Patterns : Elements of Reusable Object Oriented Software.
 
-LEARN VCS : VERSION CONTROL SYSTEM
-- Track changes in our code and collaborate with others.
 
-
+#This takes about 3 - 4 months working on it
