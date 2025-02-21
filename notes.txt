@@ -1,0 +1,29 @@
+BACKEND DEVELOPMENT
+Focuses on:
+- Data Processing
+- Storage
+- Logic
+
+First Step:
+pick a programming language; 
+Javascript: Full stack development
+Python and Ruby: Rapid Prototyping
+Java & C#: Building Large scale enterprise-grade applications
+- used in large organizations and gov't organizations
+
+Go - Performance critical and concurrent applications
+
+Building backends involve working with Data structures and implement backend algorithms
+
+Data Structures & Algorithms are critical for computer science students.
+1 - 2 : Studying classic Computer science Data Structures & Algorithms
+
+Design Patterns: Proven solutions to common design problems.
+23 software design patterns.
+- Help us understand object oriented principles.
+Book: Design Patterns : Elements of Reusable Object Oriented Software.
+
+LEARN VCS : VERSION CONTROL SYSTEM
+- Track changes in our code and collaborate with others.
+
+
